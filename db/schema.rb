@@ -28,6 +28,6 @@ ActiveRecord::Schema.define(version: 2021_06_14_160646) do
     t.string "password_digest"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-  end
+  end`
 
 end
